@@ -9,3 +9,24 @@ body {
 .pagewrapper {
     display: flex;
 }
+
+.right {
+    width: 25vw;
+    
+}
+
+.number1 {
+    color: red;
+}
+
+.number2 {
+    color: blue;
+}
+
+.number3 {
+    color: yellow;
+}
+
+.number4 {
+    color: green;
+}
